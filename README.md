@@ -74,7 +74,6 @@ BATCH UPDATE <filename>
 
 Graph Operations
 MERGE <Node1> <Node2>
-SPLIT (not implemented)
 CYCLE DETECT
 
 
